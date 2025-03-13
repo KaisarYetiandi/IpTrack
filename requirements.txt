@@ -1,0 +1,10 @@
+requests
+socket
+json
+time
+colorama
+os
+platform
+speedtest-cli
+concurrent.futures
+urllib3
