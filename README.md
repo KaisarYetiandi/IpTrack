@@ -11,7 +11,11 @@ Tools Osint sederhana, yg dimana kita bisa menggali informasi target hanya berda
 
 # Support Me📈
  SOLANA : 14j8CZNHvTJdMDwoEu6gimb2ruSJAzrXy84c4nxJXiBr
+
+ 
  BITCOIN : bc1qfjdtv8uptmlgkc4y69u2607ydtqwdaadx9tc3e
+
+ 
  ETHEREUM : 0xac45A2522A1c776990e622c87fabb81f4f76ab36
 
 # ⚠️Disclaimer⚠️
