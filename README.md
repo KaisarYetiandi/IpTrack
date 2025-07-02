@@ -7,9 +7,21 @@ install
 git clone https://github.com/KaisarYetiandi/IpTrack
 
 ```
-4. cd IpTrack
-5. pip3 install -r requirements.txt
-6. python3 Iptrack.py
+Buka
+```
+ cd IpTrack
+
+```
+install lagi
+```
+pip3 install -r requirements.txt
+
+```
+setelah itu jalankan
+```
+python3 Iptrack.py
+
+``
 
 # Support Me📈
  SOLANA : 14j8CZNHvTJdMDwoEu6gimb2ruSJAzrXy84c4nxJXiBr
