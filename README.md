@@ -4,8 +4,8 @@ Tools Osint sederhana, yg dimana kita bisa menggali informasi target hanya berda
 # Instalasi dan cara menggunakan
 1. pkg update && pkg upgrade
 2. pkg install pip
-3. ```
-git clone https://github.com/KaisarYetiandi/IpTrack
+install ```git clone
+ https://github.com/KaisarYetiandi/IpTrack
 ```
 4. cd IpTrack
 5. pip3 install -r requirements.txt
